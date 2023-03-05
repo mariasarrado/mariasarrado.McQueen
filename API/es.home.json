@@ -1,0 +1,13 @@
+
+{
+    "title": "McQueen",
+    "description": "En esta página web encontrará información sobre los últimos modelos de coches de hoy en día. Encontrará distintas marcas y estilos.",
+    "news": "En las novedades de esta semana, se muestran cinco modelos que saldrán durante 2023: ",
+    "car1": "Descubre un nuevo universo de sensaciones con el Audi Q8 e-tron. El primer SUV deportivo 100% electrico.",
+    "car2": "Es el primer coche en la historia de Ferrari con cuatro puertas y cuatro plazas. El placer de conducir y confort coexisten en perfecta armonía.",
+    "car3": "Es el primer superdeportivo diseñado para ir más allá del asfalto. Equipado con calibraciones específicas para Strada y Sport, introduce el modo Rally.",
+    "car4": "El Maserati GranTurismo ofrece una presencia musculosa y a la vez aerodinámica, imponente y al mismo tiempo refinada. Se caracteriza por una innovación radical.",
+    "car5": "El primer súper coupé eléctrico de ultra lujo del mundo es un emblema de artesanía en armonía con la tecnología electrica.",
+    "priceindex": "Si quieres saber más sobre los precios de estos modelos, pulse <a href=\"precios.html\"> aquí</a>",
+    "login": "Para inscribirse al catálogo semanal y estar al tanto de las novedades del mundo del motos, rellene este <a href=\"formulario.html\">formulario</a>"
+}

@@ -1,0 +1,12 @@
+{ 
+    "title": "McQueen",
+    "description": "In this web you will find information about the latest car models...",
+    "news": "In this week's news, we are showcasing five models that will be released during 2023: ",
+    "car1": "Discover a new universe of sensations with the Audi Q8 e-tron. The first 100% electric sports SUV.",
+    "car2": "It is the first car in the history of Ferrari with four doors and four seats. Driving pleasure and comfort coexist in perfect harmony.",
+    "car3":"It is the first supercar designed to go beyond asphalt. Equipped with specific calibrations for Strada and Sport, it introduces Rally mode.",
+    "car4": "The Maserati GranTurismo offers a muscular yet aerodynamic presence, imposing yet refined. It is characterized by radical innovation.",
+    "car5": "The world's first ultra-luxury electric super coupe is an emblem of craftsmanship in harmony with electric technology.", 
+    "priceindex": "If you want to know more about the prices of these models <a href=\"precios.html\">click here</a>", 
+    "login": "To sign up for the weekly catalog and keep up to date with news from the world of motorcycles, fill out this <a href=\"formulario.html\">form</a>"
+} 

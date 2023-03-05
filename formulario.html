@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>McQueen</title>
+        <link rel="stylesheet" href="principal.css">
+    </head>
+<body style="background-color: bisque;">
+    <h2 style="color: rgb(255, 176, 127);">Nuevo usuario del mundo del motor: </h2> 
+    <fieldset>
+        <legend>Datos personales</legend>
+        <p>
+            <label for="name_id">Nombre: </label>
+            <input type="text" id="name_id" name="name" required><br>
+        </p>
+        <p>
+            <label for="apellidos_id">Apellidos: </label>
+            <input type="text" id="apellidos_id" name="apellidos" required><br>
+        </p>
+        <p>
+            <label for="email_id">Email: </label>
+            <input type="email" id="name_id" name="email" required><br>
+        </p>
+        <p>
+            <label for="phone_id">Telefono: </label>
+            <input type="tel" id="phone_id" name="phone" required><br>
+        </p>
+        <p>Quieres recibir novedades de los nuevos modelos que salen al mercado?: 
+            <br>
+            <input type="radio" id="novedadessi_id" name="novedades" value="si" checked>
+            <label for="novedadessi_id">Si</label><br>
+            <input type="radio" id="novedadesno_id" name="novedades" value="no" checked>
+            <label for="novedadesno_id">No, solo quiero inscribirme.</label>
+        </p>
+        <button type="submit">Enviar</button>
+    </fieldset>
+</body>
